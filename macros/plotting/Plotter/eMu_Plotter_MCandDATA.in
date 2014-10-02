@@ -1,0 +1,13 @@
+doData True 
+rootfile NormalizedHistos_General.root
+process Data
+rootfile NormalizedHistos_General.root
+process zmumu
+rootfile NormalizedHistos_General.root
+process ttbar
+rootfile NormalizedHistos_General.root
+process Ms1000_Mn600_Mg10000
+rootfile NormalizedHistos_General.root
+process Ms1000_Mn600_Mg2000
+luminosity 1.280
+outputRootFile StackPlots.root

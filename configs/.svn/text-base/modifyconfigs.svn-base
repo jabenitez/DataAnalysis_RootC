@@ -1,0 +1,3 @@
+for f in `ls *.config`; do echo $f ; sed 's/RunParameters.REALDATA:  0/RunParameters.REALDATA:  1/' $f > tt ; mv tt $f ; done
+for f in `ls *.config`; do echo $f ; sed 's/RunParameters.RemoveZWindow: 0/RunParameters.RemoveZWindow: 1/' $f > tt ; mv tt $f ; done
+for f in `ls *.config`; do echo $f ; sed 's/Cuts.LOWBETAMUON1ETA_CUT: 3.0/Cuts.LOWBETAMUON1ETA_CUT: 3.0\'$'\nCuts.ZMASSMIN_CUT: 70000.0/' $f > tt ; mv tt $f ; done

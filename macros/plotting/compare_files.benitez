@@ -1,0 +1,50 @@
+Output.File: /work/LS/histos/may17/NL2NJ2/plots/benitez/Groupedby3_4.root
+Histo.Type: Overlay
+Histo.GoodNbins: -1
+Global.Normalization: 10
+
+Histos.Number: 0
+
+Files.Number: 6
+Files.1.Name: /work/LS/histos/may17/NL2NJ2/user.benitez.PythiaWmunu_no_filterMay17SelPythiaWmunu_no_filterNL2NJ2.LeptosusyHistos.120517082450.merge/user.benitez.009045._00013.merge.llp_hist.root
+Files.1.Title: PythiaWmunu
+Files.1.BaseDir:
+Files.1.DirOffset: 0
+Files.1.StartOffset: 0
+Files.1.Color: 1
+Files.1.PlotErrors: 0
+Files.2.Name: /work/LS/histos/may17/NL2NJ2/user.benitez.PythiaZmumu_no_filterMay17SelPythiaZmumu_no_filterNL2NJ2.LeptosusyHistos.120517082631.merged/user.benitez.009055._00009.merge.llp_hist.root
+Files.2.Title: PythiaZmumu
+Files.2.BaseDir:
+Files.2.DirOffset: 0
+Files.2.StartOffset: 0
+Files.2.Color: 2
+Files.2.PlotErrors: 0
+Files.3.Name: /work/LS/histos/may17/NL2NJ2/user.benitez.T1_McAtNlo_JimmyMay17SelT1_McAtNlo_JimmyNL2NJ2.LeptosusyHistos.120517082534.merged/user.benitez.009050._00034.merge.llp_hist.root
+Files.3.Title: T1 McAtNlo
+Files.3.BaseDir:
+Files.3.DirOffset: 0
+Files.3.StartOffset: 0
+Files.3.Color: 3
+Files.3.PlotErrors: 0
+Files.4.Name: /work/LS/histos/may17/NL2NJ2/Ms500_Mn200_Mg10000/llp_hist_Ms500_Mn200_Mg10000.root
+Files.4.Title: Ms500 Mn200 Mg10000
+Files.4.BaseDir:
+Files.4.DirOffset: 0
+Files.4.StartOffset: 0
+Files.4.Color: 4
+Files.4.PlotErrors: 0
+Files.5.Name: /work/LS/histos/may17/NL2NJ2/Ms1000_Mn600_Mg10000/llp_hist_Ms1000_Mn600_Mg10000.root
+Files.5.Title: Ms1000 Mn600 Mg10000
+Files.5.BaseDir:
+Files.5.DirOffset: 0
+Files.5.StartOffset: 0
+Files.5.Color: 5
+Files.5.PlotErrors: 0
+Files.6.Name: /work/LS/histos/may17/NL2NJ2/Ms1000_Mn600_Mg2000/llp_hist_Ms1000_Mn600_Mg2000.root
+Files.6.Title: Ms1000 Mn600 Mg2000
+Files.6.BaseDir:
+Files.6.DirOffset: 0
+Files.6.StartOffset: 0
+Files.6.Color: 6
+Files.6.PlotErrors: 0

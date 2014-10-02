@@ -1,0 +1,2 @@
+./runPlotter.sh General test
+./makeRegionsDirectories.sh test testout General

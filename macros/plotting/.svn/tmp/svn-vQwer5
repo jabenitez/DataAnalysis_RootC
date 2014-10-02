@@ -1,0 +1,15 @@
+Output.File: overlay_plots/overlay_plots.root
+Histo.Type: Overlay
+Histo.GoodNbins: -1
+Global.Normalization: 100
+
+Histos.Number: 0
+
+Files.Number: 1
+Files.1.Name: ../../llp_hist.root
+Files.1.Title: file1
+Files.1.BaseDir:
+Files.1.DirOffset: 0
+Files.1.StartOffset: 0
+Files.1.Color: 1
+Files.1.PlotErrors: 0

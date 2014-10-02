@@ -1,0 +1,28 @@
+Output.File: ISR/177966/177966.root
+Histo.Type: Overlay
+Histo.GoodNbins: -1
+
+Histos.Number: 0
+
+Files.Number: 3
+Files.1.Name: /Users/benitez/work/smp/rootfiles/d3pds/177966/Up/fhistos.root
+Files.1.Title: ISR Down
+Files.1.BaseDir:
+Files.1.DirOffset: 0
+Files.1.StartOffset: 0
+Files.1.Color: 1
+Files.1.PlotErrors: 0
+Files.2.Name: /Users/benitez/work/smp/rootfiles/d3pds/177966/Nominal/fhistos.root
+Files.2.Title: ISR Nominal
+Files.2.BaseDir:
+Files.2.DirOffset: 0
+Files.2.StartOffset: 0
+Files.2.Color: 2
+Files.2.PlotErrors: 0
+Files.3.Name: /Users/benitez/work/smp/rootfiles/d3pds/177966/Down/fhistos.root
+Files.3.Title: ISR Down
+Files.3.BaseDir:
+Files.3.DirOffset: 0
+Files.3.StartOffset: 0
+Files.3.Color: 3
+Files.3.PlotErrors: 0

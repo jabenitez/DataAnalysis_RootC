@@ -1,0 +1,15 @@
+* To produce normalized plots
+
+sh runPlotter.sh <Process Name> <Directory Name>
+
+* To produce the stacked plots
+
+sh  makeRegionsDirectories.sh <Directory Name> <Directory Name 2> <Process Name>
+
+*** Notes:
+
+1. <Directory Name> to produce stacked plots should be the same as the one used to produce the normalized plots
+
+2. <Directory Name 2> is the name of the directory where the stacked plots will be stored at
+
+3. Remember to modify the regions.txt to change the name of the subdictory  
